@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on Loja do Rei.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning NextJS and Solidity.
 - 💬 Ask me about Ecommerce, digital marketing, photography, video production and video editing.
 - ⚡ Fun fact: I quit Computer Science Graduation Course at UFscar in 2013 and now i'm back learning programing.
 - 📫 How to reach me: axxcar@gmail.com
