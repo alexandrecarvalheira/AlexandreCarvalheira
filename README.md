@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on OmniKingdoms as frontend lead.
-- 🌱 I’m currently learning Rust and ZK.
+- 🌱 I’m currently learning FHE and Rust.
 - 💬 Ask me about Ecommerce, digital marketing, photography and blockchain.
-- ⚡ Fun fact: I quit Computer Science Graduation Course at UFscar in 2013 and now i'm back learning programing.
+- ⚡ Fun fact: I quit Computer Science Graduation Course in 2013 and now i'm back learning programing.
 - 📫 How to reach me: axxcar@gmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-carvalheira-146062b7)](https://www.linkedin.com/in/alexandre-carvalheira-146062b7/)
