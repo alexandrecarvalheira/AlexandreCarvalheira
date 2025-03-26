@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Circom and Rust.
 - 💬 Ask me about Ecommerce, photography and blockchain.
-- ⚡ Fun fact: I quit Computer Science Graduation Course in 2013 and now i'm back learning programing.
 - 📫 How to reach me: axxcar@gmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-carvalheira-146062b7)](https://www.linkedin.com/in/alexandre-carvalheira-146062b7/)
