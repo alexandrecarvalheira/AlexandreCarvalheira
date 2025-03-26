@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m passionate about Account Abstraction.
-- 🌱 I’m currently learning FHE and Rust.
+- 🌱 I’m currently learning Circom and Rust.
 - 💬 Ask me about Ecommerce, photography and blockchain.
 - ⚡ Fun fact: I quit Computer Science Graduation Course in 2013 and now i'm back learning programing.
 - 📫 How to reach me: axxcar@gmail.com
